@@ -1,0 +1,27 @@
+
+public class Person {
+
+	public static void main(String[] args) {
+
+		Classes obj1 = new Classes();
+		
+		obj1.n1="Ann";
+		obj1.n2="Adam";
+		obj1.h1="5'4";
+		obj1.h2="5'9";
+		obj1.a1=21;
+		obj1.a2=24;
+		
+		System.out.println("Name: "+obj1.n1);
+		System.out.println("Height: "+obj1.h1);
+		System.out.println("Age: "+obj1.a1);
+		System.out.println("");
+		System.out.println("Name: "+obj1.n2);
+		System.out.println("Height: "+obj1.h2);
+		System.out.println("Age: "+obj1.a2);
+
+				
+	}
+
+}
+                                                                                                                                                                
