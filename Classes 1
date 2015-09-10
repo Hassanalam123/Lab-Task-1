@@ -1,0 +1,7 @@
+
+public class Classes 1 
+{
+
+	public String n1,n2,h1,h2;
+	public int a1,a2;
+}
